@@ -37,6 +37,8 @@ function App(){
       <Formulario titulo = "E-mail" mensagem = " trikas" />
       <Formulario titulo ="CPF" mensagem = "parmera" />
       <Formulario />
+      <Formulario />
+      <Formulario />
     </div>
   )
 }
